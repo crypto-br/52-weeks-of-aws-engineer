@@ -1,4 +1,4 @@
-# Sessão session-015-ecs-fargate-networking-iam — ECS Fargate: networking, security groups e IAM Roles for Tasks
+# Sessão 15 — ECS Fargate: networking, security groups e IAM Roles for Tasks
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-014-ecs-services-discovery-alb
