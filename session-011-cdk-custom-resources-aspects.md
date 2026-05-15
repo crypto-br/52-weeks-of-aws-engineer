@@ -1,4 +1,4 @@
-# Sessão session-011-cdk-custom-resources-aspects — CDK: CustomResources e Aspects
+# Sessão 11 — CDK: CustomResources e Aspects
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-010-cdk-pipelines-stages-shellsteps
