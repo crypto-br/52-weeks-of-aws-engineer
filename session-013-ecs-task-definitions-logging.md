@@ -1,4 +1,4 @@
-# Sessão session-013-ecs-task-definitions-logging — ECS: Task Definitions — containers, volumes, logging e resource limits
+# Sessão 13 — ECS: Task Definitions — containers, volumes, logging e resource limits
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-004-cdk-v2-setup-bootstrap
