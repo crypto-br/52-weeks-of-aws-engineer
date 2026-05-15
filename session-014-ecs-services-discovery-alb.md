@@ -1,4 +1,4 @@
-# Sessão session-014-ecs-services-discovery-alb — ECS: Services, service discovery e integração com ALB Target Groups
+# Sessão 14 — ECS: Services, service discovery e integração com ALB Target Groups
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-013-ecs-task-definitions-logging
