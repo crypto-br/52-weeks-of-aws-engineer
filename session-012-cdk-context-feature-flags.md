@@ -1,4 +1,4 @@
-# Sessão session-012-cdk-context-feature-flags — CDK: Context, feature flags e cdk.json production-grade
+# Sessão 12 — CDK: Context, feature flags e cdk.json production-grade
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-011-cdk-custom-resources-aspects
