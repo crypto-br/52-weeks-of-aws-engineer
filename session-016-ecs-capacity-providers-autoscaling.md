@@ -1,4 +1,4 @@
-# Sessão session-016-ecs-capacity-providers-autoscaling — ECS: Capacity Providers e Application Auto Scaling
+# Sessão — ECS: Capacity Providers e Application Auto Scaling
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-015-ecs-fargate-networking-iam
