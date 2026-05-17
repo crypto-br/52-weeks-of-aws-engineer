@@ -1,4 +1,4 @@
-# Sessão session-017-ecs-deploy-rolling-blue-green — ECS: Deploy strategies — rolling update e blue/green com CodeDeploy
+# Sessão — ECS: Deploy strategies — rolling update e blue/green com CodeDeploy
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-016-ecs-capacity-providers-autoscaling, session-010-cdk-pipelines-stages-shellsteps
