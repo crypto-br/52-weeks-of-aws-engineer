@@ -1,4 +1,4 @@
-# Sessão session-018-ecs-observabilidade-firelens-xray — ECS Observabilidade: FireLens, Container Insights e X-Ray sidecar
+# Sessão — ECS Observabilidade: FireLens, Container Insights e X-Ray sidecar
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-017-ecs-deploy-rolling-blue-green
