@@ -1,4 +1,4 @@
-# Sessão session-019-lambda-execution-cold-starts — Lambda: execution model, cold starts e provisioned concurrency
+# Sessão 19 — Lambda: execution model, cold starts e provisioned concurrency
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-004-cdk-v2-setup-bootstrap
