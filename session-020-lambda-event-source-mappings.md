@@ -1,4 +1,4 @@
-# Sessão session-020-lambda-event-source-mappings — Lambda: event source mappings — SQS, Kinesis e DynamoDB Streams com filtering
+# Sessão — Lambda: event source mappings — SQS, Kinesis e DynamoDB Streams com filtering
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-019-lambda-execution-cold-starts
