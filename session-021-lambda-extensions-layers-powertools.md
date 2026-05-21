@@ -1,4 +1,4 @@
-# Sessão session-021-lambda-extensions-layers-powertools — Lambda: Extensions, Layers e Power Tools
+# Sessão — Lambda: Extensions, Layers e Power Tools
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-020-lambda-event-source-mappings
