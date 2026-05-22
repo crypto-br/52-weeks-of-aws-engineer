@@ -1,4 +1,4 @@
-# Sessão session-022 — Step Functions: Standard vs Express, states básicos (Task, Choice, Wait) e execução
+# Sessão 22 — Step Functions: Standard vs Express, states básicos (Task, Choice, Wait) e execução
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-021-lambda-extensions-layers-powertools
