@@ -1,4 +1,4 @@
-# Sessão session-023 — Step Functions: Parallel, Map, fluxo de dados entre states e error handling
+# Sessão 23 — Step Functions: Parallel, Map, fluxo de dados entre states e error handling
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-022-stepfunctions-standard-express-states
