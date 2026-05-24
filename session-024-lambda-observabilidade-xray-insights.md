@@ -1,4 +1,4 @@
-# Sessão session-024 — Lambda Observabilidade: structured logging, X-Ray e Lambda Insights
+# Sessão 024 — Lambda Observabilidade: structured logging, X-Ray e Lambda Insights
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-023-stepfunctions-parallel-map-error
