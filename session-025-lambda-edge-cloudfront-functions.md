@@ -1,4 +1,4 @@
-# Sessão session-025 — Lambda@Edge vs CloudFront Functions: casos de uso e limites
+# Sessão 025 — Lambda@Edge vs CloudFront Functions: casos de uso e limites
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-024-lambda-observabilidade-xray-insights
