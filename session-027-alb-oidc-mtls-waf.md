@@ -1,4 +1,4 @@
-# Sessão session-027-alb-oidc-mtls-waf — ALB: OIDC nativo, mTLS e integração com WAF
+# Sessão 027 — ALB: OIDC nativo, mTLS e integração com WAF
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-026-alb-listener-rules-weighted
