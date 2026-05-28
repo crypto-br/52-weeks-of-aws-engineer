@@ -1,4 +1,4 @@
-# Sessão session-028-nlb-glb-casos-uso — NLB e GLB: casos de uso, preserve client IP e inline inspection
+# Sessão 28 — NLB e GLB: casos de uso, preserve client IP e inline inspection
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-027-alb-oidc-mtls-waf
