@@ -1,4 +1,4 @@
-# Sessão session-029-dynamodb-access-patterns-pk-sk — DynamoDB: access patterns first e PK/SK genéricos
+# Sessão 29 — DynamoDB: access patterns first e PK/SK genéricos
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-020-lambda-event-source-mappings
