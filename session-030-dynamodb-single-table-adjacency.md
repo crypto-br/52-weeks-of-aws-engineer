@@ -1,4 +1,4 @@
-# Sessão session-030-dynamodb-single-table-adjacency — DynamoDB: single-table design, adjacency list e overloaded indexes
+# Sessão 30 — DynamoDB: single-table design, adjacency list e overloaded indexes
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-029-dynamodb-access-patterns-pk-sk
