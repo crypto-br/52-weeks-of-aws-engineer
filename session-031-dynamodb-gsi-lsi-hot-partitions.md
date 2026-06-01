@@ -1,4 +1,4 @@
-# Sessão session-031-dynamodb-gsi-lsi-hot-partitions — DynamoDB: GSIs e LSIs, hot partitions e write amplification
+# Sessão 31 — DynamoDB: GSIs e LSIs, hot partitions e write amplification
 
 **Duração estimada:** 60 minutos
 **Pré-requisitos:** session-030-dynamodb-single-table-adjacency
