@@ -1,4 +1,4 @@
-# Sessão 048 — EKS: IRSA e Pod Identity — Workload-Level IAM sem Credenciais Estáticas
+# Sessão 048 — EKS: IRSA e Pod Identity, Workload-Level IAM sem Credenciais Estáticas
 
 **Duração estimada:** 60 min  
 **Pré-requisito:** session-047 (EKS node groups, Fargate, upgrades)
